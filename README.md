@@ -18,7 +18,7 @@ Además, se integra una base de datos **SQL Server** para registrar el **nombre 
 
 1. El usuario abre la interfaz del sistema.
 2. Se le solicita su nombre.
-3. El sistema realiza una serie de preguntas (por ejemplo, ¿Tiene pico curvo?, ¿Es de color brillante?, etc.).
+3. El sistema realiza una serie de preguntas.
 4. Las respuestas son evaluadas en la red semántica.
 5. Se muestra la especie de ave más probable.
 6. El nombre del usuario y la fecha de consulta se registran automáticamente en la base de datos.
